@@ -440,7 +440,7 @@ under the BSD 3-Clause License, as is the Xenia code it derives from. XenonRecom
 - The ReXGlue SDK by Tom Clay, the recompilation runtime this port uses.
 - [XenonRecomp](https://github.com/hedge-dev/XenonRecomp) by hedge-dev and contributors.
 - tronuo, for the 60 FPS patch and the Havok physics fix.
-- [Frank Kitzing (frankyfife)](https://github.com/frankyfife), for the free camera and photo mode,
+- [(frankyfife)](https://github.com/frankyfife), for the free camera and photo mode,
   ink outline controls, clean eye shading, start episode selection, multilingual intro skipping,
   Windows timing and guest-address fixes, Havok step changes and audio/physics diagnostics.
   These contributions were developed in [his fork](https://github.com/frankyfife/TheSimpsonsGameRecomp_ff)
